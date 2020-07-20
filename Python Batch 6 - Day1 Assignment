@@ -1,0 +1,14 @@
+Day 1-Assignment:
+
+1) What is Python?What are different ways to install python in PC?
+Ans: Python is a general-purpose, high level, object-oriented programming language.
+Ways to install Python are:
+i) Can be downloaded from the official website "python.org" and installed.
+ii) By installing Anaconda Distribution which is bundlled up with not just python but also many other packages and libraries.
+
+2) What are the code Environments? Types?
+Ans: Code environment is a place where one can write their code, compile and see the outputs, all together in one place.
+There are 3 types of Environment:
+ii) Text Editors
+ii) Full IDE
+iii) Notebook Environments
